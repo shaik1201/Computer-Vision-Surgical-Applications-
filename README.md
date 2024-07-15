@@ -6,4 +6,4 @@ This project involves training a YOLO model for object detection.
 
 You can download the trained YOLO model weights from the link below:
 
-[Download best.pt](https://github.com/shaik1201/Computer-Vision-Surgical-Applications-/raw/main/HW1/best.pt)
+[Download model's weights](https://github.com/shaik1201/Computer-Vision-Surgical-Applications-/raw/main/HW1/best.pt)
