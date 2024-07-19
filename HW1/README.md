@@ -1,7 +1,8 @@
 # How to start:
 
 1. Clone the repository:
-`git clone https://github.com/shaik1201/Computer-Vision-Surgical-Applications-.git`
+   ```sh
+   git clone https://github.com/shaik1201/Computer-Vision-Surgical-Applications-.git
 
 2. cd into HW1
 `cd Computer-Vision-Surgical-Applications/HW1`
