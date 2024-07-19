@@ -3,8 +3,8 @@ from ultralytics import YOLO
 
 model = YOLO("best.pt")
 
-video_path = 'ood/long_ood.mp4'
-output_path = './long_ood_train6.mp4'
+video_path = 'surg_1.mp4'
+output_path = 'tagged_video.mp4'
 
 cap = cv2.VideoCapture(video_path)
 
