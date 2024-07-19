@@ -6,7 +6,8 @@
 
 2. cd into HW1
     ```sh
-    cd Computer-Vision-Surgical-Applications/HW1
+    cd Computer-Vision-Surgical-Applications
+    cd HW1
 
 3. install the required packages
     ```sh
