@@ -35,7 +35,7 @@ def display_image(lines, img, title="Image", cmap=None):
     
 
 model = YOLO("best.pt")
-img_path = 'images/train/1c0b1584-frame_1789.jpg'
+img_path = '1c0b1584-frame_1789.jpg'
     
 img = cv2.imread(img_path)
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)

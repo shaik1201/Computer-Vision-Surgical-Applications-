@@ -1,0 +1,11 @@
+train: images/train
+val: images/val
+
+nc: 3
+
+names:
+  0: Empty
+  1: Tweezers
+  2: Needle_driver
+
+# names: ['Empty', 'Tweezers', 'Needle_driver']  # list of class names
