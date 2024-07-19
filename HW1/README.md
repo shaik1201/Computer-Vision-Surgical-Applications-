@@ -26,7 +26,7 @@ This will open a window with the tagged image. You can check it on other images 
 This will create a file named "tagged_video.mp4". You can check it on other video by changing the variable `video_path` to your video path.
 
 ## The pseudo_labels folder
-This folder contains the pipline and scripts i used for preprocessin, augmenting, generating pseudo labels and training the models.
+This folder contains the pipline and scripts i used for preprocessing, augmenting, generating pseudo labels and training the models.
 The scripts can not be run without the images and labels files which were not uploaded to this repo.
 
 ## Download the Model Weights
