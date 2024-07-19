@@ -6,22 +6,22 @@
 
 2. cd into HW1
     ```sh
-    `cd Computer-Vision-Surgical-Applications/HW1`
+    cd Computer-Vision-Surgical-Applications/HW1
 
-3. install the requoired packages
+3. install the required packages
     ```sh
-    `pip install -r requirements.txt`
+    pip install -r requirements.txt
 
-4. To run prediction on the image uploaded to this repo, run::
+4. To run prediction on the image uploaded to this repo, run:
     ```sh
-    `python predict.py`
+    python predict.py
 
 This will open a window with the tagged image. You can check it on other images by changing the variable `img_path` to your image path.
 
 5. To run prediction on the short ood video uploaded to this repo, run:
 
     ```sh
-    `python video.py`
+    python video.py
 
 This will create a file named "tagged_video.mp4". You can check it on other video by changing the variable `video_path` to your video path.
 
