@@ -17,22 +17,22 @@
     ```sh
     python predict.py
 
-This will open a window with the tagged image. You can check it on other images by changing the variable `IMAGE_PATH` to your image path.
+You can check it on other images by changing the variable `IMAGE_PATH` to your image path.
 
 5. To run prediction on the short ood video uploaded to this repo, run:
 
     ```sh
     python video.py
 
-This will create a file named "tagged_video.mp4". You can check it on other video by changing the variable `VIDEO_PATH` to your video path.
+You can check it on other video by changing the variable `VIDEO_PATH` to your video path.
 
-## generate_data
+## The generate_data folder
 This folder contains the code for generating the synthetic data for training.
 
-## The YOLO_DANN
+## The YOLO_DANN folder
 This folder contains the code for creating and training the YOLO_DANN model.
 
-## The FCN_DANN
+## The FCN_DANN folder
 This folder contains the code for creating and training the FCN_DANN model.
 
 ## Download the Model Weights
@@ -40,3 +40,5 @@ This folder contains the code for creating and training the FCN_DANN model.
 You can download the trained YOLO model weights from the link below:
 
 [Download model's weights](https://github.com/shaik1201/Computer-Vision-Surgical-Applications-/blob/main/Final%20Project/models_weights/exp3_try4.pt)
+
+NOTE: the model weights are the ones before the domain adaptation since the results for the domain adaptation were bad, we decided to submit the pre-adaptation weights.
