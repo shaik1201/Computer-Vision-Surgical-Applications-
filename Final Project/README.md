@@ -13,13 +13,13 @@
     ```sh
     pip install -r requirements.txt
 
-4. To run prediction on the image uploaded to this repo, run:
+4. To run prediction on the image, run:
     ```sh
     python predict.py
 
 You can check it on other images by changing the variable `IMAGE_PATH` to your image path.
 
-5. To run prediction on the short ood video uploaded to this repo, run:
+5. To run prediction on a video, run:
 
     ```sh
     python video.py
