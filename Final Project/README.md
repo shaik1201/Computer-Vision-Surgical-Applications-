@@ -36,7 +36,7 @@ This folder contains the code for creating and training the YOLO_DANN model.
 This folder contains the code for creating and training the FCN_DANN model.
 
 ## Tagged videos
-pre-adaptation: <br>
+pre-adaptation: https://drive.google.com/file/d/1dRfADvIJ6Kun0u6gHQBDi0E5M1qma783/view?usp=sharing <br>
 post-adaptation: https://drive.google.com/file/d/1faI56hpTxc-fz0QiMDO6JjWNssC6XjFw/view?usp=drive_link
 
 ## Download the Model Weights
